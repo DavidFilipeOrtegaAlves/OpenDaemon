@@ -11,7 +11,7 @@
 OpenDaemon is the ultimate AI companion and gateway, completely reimagined for a seamless, powerful user experience. Getting started is as easy as a single click, bringing you straight into a beautiful, intuitive chat onboarding process. 
 
 We’ve packed OpenDaemon with features designed to give you unprecedented control and connectivity:
-- **30+ Free APIs:** Connect to a vast array of services right out of the box.
+- **13+ Free APIs:** Connect to a vast array of services right out of the box, more apis will be added soon.
 - **AI Companions & Voices:** Choose from over 25 distinct, high-quality voices to personalize your companion.
 - **3 Microphone Modes:** Including a direct micro mode for pristine, immediate voice interactions.
 - **Stunning New UI:** A gorgeous, dark-themed interface with dynamic visuals and a premium feel.
