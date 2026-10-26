@@ -1,5 +1,6 @@
 <div align="center">
   <img src="opendaemon.png" alt="OpenDaemon Avatar" width="150" height="150" />
+  This app is moved to microsoft store, https://apps.microsoft.com/detail/9nrbtqjjxf4g?hl=es-ES&gl=CO
   <h1>OpenDaemon</h1>
   <p><em>OpenClaw on steroids. 1-click install, seamless chat onboarding, and a stunning new UI.</em></p>
 </div>
